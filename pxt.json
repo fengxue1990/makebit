@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:fengxue1990/pxt-neopixel#v0.6.9",
+        "neopixel": "microsoft/pxt-neopixel#v0.6.9",
         "cbit_IR": "github:fengxue1990/cBit_IR",
         "sonar": "github:fengxue1990/sonar",
         "TM1650": "github:fengxue1990/TM1650"
